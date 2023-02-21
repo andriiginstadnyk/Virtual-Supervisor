@@ -1,2 +1,2 @@
-# Personal_Teacher
-## FIrst try to run github page
+# Virtual-Supervisor
+## Scientific research and design project in the field of medicine and sports.
